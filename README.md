@@ -12,5 +12,5 @@
 [![image](https://img.shields.io/badge/Library-Bootstrap-7952B3?&style=for-the-badge&logo=Bootstrap&labelColor=black)]()  
 [![image](https://img.shields.io/badge/language-JavaScript-ffe100?&style=for-the-badge&logo=JavaScript&labelColor=black)]()  
 [![image](https://img.shields.io/badge/Library-ReactJs-026bc7?&style=for-the-badge&logo=React&labelColor=black)]()  
-[![image](https://img.shields.io/badge/Library-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()  
+[![image](https://img.shields.io/badge/Library-NextJs-4c4c4d?style=for-the-badge&logo=nextdotjs&logoColor=black)]()  
 [![image](https://img.shields.io/badge/versioncontrol-git-F05032?&style=for-the-badge&logo=Git&labelColor=black)]()  
